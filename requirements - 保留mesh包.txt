@@ -7,3 +7,12 @@ opencv-python==4.2.0.34
 matplotlib
 jupyter
 
+# for mesh
+PyMCubes
+pycollada
+trimesh
+pyglet
+
+# for point cloud
+plyfile
+open3d
